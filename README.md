@@ -1,7 +1,7 @@
 ### Coding Challenge Guidelines
 MJH Engineering Ltd Code Challenge - Task List
 
-The challenge is to create a basic Task List using react and redux (Using a actions/reducer pattern).
+The challenge is to create a basic Task List using react and redux (Using an actions/reducer pattern).
 Please fork this repo and send me a email with a link to your fork when you want to submit it.
 
 
